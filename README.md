@@ -1,6 +1,6 @@
 # Meals App
 
-<p><img align="center" height="500" width="200" src="./counterScreenhoots.png"/></p>
+<p><img align="center" height="500" width="200" src="./meals.png"/></p>
 
 
 ## Description
