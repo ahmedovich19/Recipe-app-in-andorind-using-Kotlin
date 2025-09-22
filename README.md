@@ -1,17 +1,21 @@
 # Meals App
 
-<p align="center"><img align="center" height="500" width="200" src="./meals.png"/></p>
+<span align="center"><img align="center" height="500" width="200" src="./meals.png"/></span>
+<span align="center"><img align="center" height="500" width="200" src="./detailsScreen.png"/></span>
 
 
 ## Description
 
 This is a simple Android meals app built using **Kotlin** and **Jetpack Compose**.
-It displays a list of meals in a two-column grid layout, with each meal item showing an image of the meal and its name below it. The app provides a clean and visually appealing way to browse meals.
+It displays a list of meals in a two-column grid layout, with each meal item showing an image of the meal and its name below it.
+The user can press on any meal to open its details page where it shows the meal's name, image and description .
+The app provides a clean and visually appealing way to browse meals.
 
 ## Features
 
 - **Two-Column Grid**: Displays meals in a responsive two-column layout.
 - **Meal Display**: Each meal item includes an image and its name.
+- **Meal Details**: Page icludes meal's name , image , description.
 - **Intuitive UI**: Built with Jetpack Compose for a modern, fluid interface.
 - **Responsive Design**: Adapts to various screen sizes and orientations.
 
